@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv remonstrance of the eleven impeached members, declaring the true reasons, why some of them have now chosen to goe into forraigne kingdomes, and others to obscure themselves in this. Also the cleering of themselves from the severall accusations, which since the last answer and vindication have been lately laid unto their charge. Together with their last resolution, and protestation, and their assurance of a happy meeting in the haven of peace, and their re-union, although now disjoyned for a season, by the foul weather of these uncertaine times.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90024</idno><idno type="EEBO-CITATION">99862305</idno>
+  <idno type="VID">160437</idno>
+  <idno type="EEBO-PROQUEST">2240960218</idno>
+  
+            <idno type="STC">Wing N743</idno>
+            <idno type="STC">Thomason E402_3</idno>
+            <idno type="STC">ESTC R201811</idno>
+            <idno type="PROQUEST">99862305</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862305e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv remonstrance of the eleven impeached members, declaring the true reasons, why some of them have now chosen to goe into forraigne kingdomes, and others to obscure themselves in this. Also the cleering of themselves from the severall accusations, which since the last answer and vindication have been lately laid unto their charge. Together with their last resolution, and protestation, and their assurance of a happy meeting in the haven of peace, and their re-union, although now disjoyned for a season, by the foul weather of these uncertaine times.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Expulsions --  Early works to 1800.</term>
+               <term type="topical_term">Impeachments --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160437:1"/>
+            <p>A NEW REMONSTRANCE Of the Eleven Impeached Members, Declaring the true reasons, why some of them have now chosen to goe into Forraigne King<g ref="char:EOLhyphen"/>domes, and others to obscure them<g ref="char:EOLhyphen"/>selves in this.</p>
+            <p>Also the cleereing of themselves from the severall Accusations, which since the last Answer and Vindi<g ref="char:EOLhyphen"/>cation have been lately laid unto their charge.</p>
+            <p>Together with their last Resolution, and Protestation, and their assurance of a happy meeting in the Haven of Peace, and their re-union, although now dis<g ref="char:EOLhyphen"/>joyned for a season, by the foul weather of these uncer<g ref="char:EOLhyphen"/>taine Times.</p>
+            <p>Printed in the yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160437:2"/>
+            <pb n="1" facs="tcp:160437:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>Here having been already so much declared by us concerning the up<g ref="char:EOLhyphen"/>rightnesse of our intentions, and the reality of our proceedings, in the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st of which, our conscien<g ref="char:EOLhyphen"/>ces assuring us, that God is satis<g ref="char:EOLhyphen"/>fied: And in the latter (having well hoped) that we had already satisfied the Kingdome, wee be<g ref="char:EOLhyphen"/>leeved indeed that there had been no need of a second Vin<g ref="char:EOLhyphen"/>dication, or that a new doore would have easily beene open<g ref="char:EOLhyphen"/>ed to let in more detraction to our fame, or danger to our Per<g ref="char:EOLhyphen"/>sons: But seeing that after our last receding from the House, we doe still continue persecuted by the black tongues of se<g ref="char:EOLhyphen"/>cret revilers, and by the dayly pens of unruly Pamphlets, and that we cannot have granted to us the happinesse to enjoy a <hi>Quiet misery:</hi> We have once more adventured to be seen in publick, and not so much to silence slanders (which is a worke we scorne, and doe esteeme to bee farre beneath us) as to testifie to the World, how ready we are, some of us, to enjoy our sad retirednesse, and others to imbrace a willing B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nishment for the peace and happinesse of our Country.</p>
+            <p>For though it be alleadged, that some delay was made by those of us who were knowne to be most expert in Military professions, after that Passes were ordered to bee granted by Mr. Speaker, to travell beyond the Seas; we doe professe, that it was no way to take an advantage by delayes, to ad<g ref="char:EOLhyphen"/>vance our selves in the distempers and ruine of the publique,
+<pb n="2" facs="tcp:160437:3"/> the safety whereof wee have alwayes preserved above our owne, as the wounds of some of us, (who have suffered in the Warres) with wide mouthes can witnesse, without a tongue, but onely to draw more neere together, and to con<g ref="char:EOLhyphen"/>firme in an established course, some Fortunes, when the Warre had left, and to make an Accommodation more convenient for such necessaries as were requisite for our tra<g ref="char:EOLhyphen"/>velling condition, being well assured of our uncertainty in this life; and that though we had permission to bee absent for six moneths out of this Kingdome, yet doe we not know whether God would give us leave to bee six dayes in the world or no.</p>
+            <p>It is againe alleaged, that some one or two of us, were chosen to be Commanders by the City for the defence ther<g ref="char:EOLhyphen"/>of, after they had dismissed themselves from sitting as Mem<g ref="char:EOLhyphen"/>bers in Parliament: To which it is answered, That as there is great difference from sitting as a Member in the House of Parliament, and being a Commander of a Power in City, or Field, so they will not dispute by what power they recei<g ref="char:EOLhyphen"/>ved their authority: This may suffice all indifferent men that with much unwillingnesse the Commissions were taken up, it being a Dignity not sought after, an imployment at this present not delighted in, and as it was taken with unwil<g ref="char:EOLhyphen"/>lingnesse, so in a few houres after, it was with much wisdome and modesty layd downe againe.</p>
+            <p>But againe it was objected, That having dismissed our selves from the House, contrary to the expectation of many: We made bold to fit in Parliament againe; to which wee answer, That the same power which drove many of the Members away from the Parliament into the Army, and which since hath beene adjudged justifiable, both by the Army, and by Councell, were the onely meanes of bring<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:160437:3"/> us againe into the Parliament House, and wee see no reason why they should be defended for being forced away from the Parliament, and we not excused, being in a manner forced by the same instruments to sit againe in it, especially it being at that time, a burden not to be delighted in, for woes mee (with his Majestie) nothing is more dishonourable then to be beholding unto Tumult for Honour, or for Voy<g ref="char:EOLhyphen"/>ces from such a number, to seate our selves in the House of Parliament.</p>
+            <p>If it bee againe demanded, Why wee doe not appeare in publick, and shew our faces as open as our Apologie: The answer is ready; Wee were no way afrayde of our cause, but the times; for wee doe well perceive, how violent they lately were, and how learned by old experience, that vio<g ref="char:EOLhyphen"/>lent thoughts may and doe thrust men into violent actions, and to performe those things, which afterwards they may have reason to repent at leasure: Yet there are not wanting some of us who are every day to bee seene where observa<g ref="char:EOLhyphen"/>tion lyes most open, but there are degrees of Vertue, and one man is often looked on with a stranger eye of malice then another.</p>
+            <p>But having satisfied the Parliament, who have given us a sufficient approbation of our integrity (wee doe not know what second Counsells may doe, nor doe we feare them) we will give a little satisfaction to the World, and to the worst of men, who are the dayly revilers of us in their li<g ref="char:EOLhyphen"/>cencious Libells of our Resolution: We doe therefore de<g ref="char:EOLhyphen"/>clare, That wee finde, it is unwholesome to continue in an ayre where such contagious Libells raigne: every last day hath more of the Dogge in it then the former, and by the accesse and heate of Humours, the sad infection doth in<g ref="char:EOLhyphen"/>crease, we are therefore resolved some of us to retire for a
+<pb n="4" facs="tcp:160437:4"/> while into the Countrey, and some to travell unto other Kingdomes, but not without this resolution, That if it shall please God to continue life unto us to returne before the expiration of the prefixed time, to answer to what ever accusations shall bee made against us; for we have through<g ref="char:EOLhyphen"/>ly examined our consciences, and looked into the most hidden part and bottome of our hearts, and wee doe speake what there we finde, and God is our witnesse that wee doe speake the truth, That wee have alwayes endeavoured (as farre as possible wee could conceive) the safety of Religion, and happinesse of the King and Kingdome; wee doe there<g ref="char:EOLhyphen"/>fore presume upon our Innocence, but (above all) upon the mercies of the Almightie, that he will continue to pro<g ref="char:EOLhyphen"/>tect us, and gratiously to deliver us from all that shall make us the objects either of their malice, or their power: And though that all our actions, our words, and most private conversations have beene searched unto, and brought unto the ballance, and examined in the severest way that might bee, yet as nothing hitherto, could with Authority, and by witnesses bee produced to proclaime us guilty, or to make good an impeachment against us, so wee hope wee shall carry the same Integrity and Uprightnesse with us to our Graves, which may by some be blemished by our absence, but can never suffer in it selfe. Wee have laboured to the uttermost of our power, to procure a settlement to the Church and State: Wee have desired a Peace, and are pro<g ref="char:EOLhyphen"/>claimed guilty of Warre: As Members of the Parliament, and as Members of the Common-wealth, wee have labour<g ref="char:EOLhyphen"/>ed with the losse of our blood, and the losse of our For<g ref="char:EOLhyphen"/>tunes, for the health and wellfare of the Kingdome; and wee are condemned for the Firelocks of Sedition and De<g ref="char:EOLhyphen"/>struction: All practises have been used both to descrie, and
+<pb n="5" facs="tcp:160437:4"/> then to proclaime us guilty, but wee hope that the grace of God which hath hitherto in the labyrinth of am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zement, directed us, will bringe us with safety to our Journeyes end.</p>
+            <p>Neither can it appeare strange unto us to obscure our selves from the World, and endure a willing banishment for a while; Even the Heathen have instructed us in this exer<g ref="char:EOLhyphen"/>cise of honourable p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tience: Thus did <hi>Aristides, Pericles,</hi> and <hi>Scipio</hi> that Thunderbolt of Warre, and many other Worthies, whose vertues wee doe rather strive to imitate, then to repeate their names, who by denying of themselves, and refusing what Honour or Fortune could promise them at home, have (after most remarkable services performed for their owne Country,) willingly afterwards abandoned it, and have been content to adventure and lose their owne safty to please the unruly people, mad to enjoy onely but the sha<g ref="char:EOLhyphen"/>dow and the empty title of Liberty. And as these examples of honour and Fortitude, have power to put more dull and heavy spirits into the like noble resolutions, so wee who in all our thoughts and actions shall bee ever carefull to make God their beginning and their end, doe joyntly and seve<g ref="char:EOLhyphen"/>rally all of us professe, that in all our troubles what ever shall befall us, nothing shall more delight us, then to heare of the happinesse and flourishing of this Kingdome, and that Religion is established according to the purity of it in the Primitive times; That his Majestie is returned with Ho<g ref="char:EOLhyphen"/>nour, Freedome, and Safety, to his Parliament, and the Prince returned with safety unto the King, that the Parlia<g ref="char:EOLhyphen"/>ment doe enjoy their Priviledges, and the people their Li<g ref="char:EOLhyphen"/>berties which have cost them so much money, and so many showers of sweat and blood: And that in the end it may appeare to all the World; that there dwels not in any of us,
+<pb n="6" facs="tcp:160437:5"/> any thought of returning the least of injury for any thing that hath been commenced against us. Wee doe solemnely protest, that whatsoever hath beene sayde against us, that cannot be proved, whatsoever hath beene done against us, that cannot be maintained, wee doe fairely, freely, and ful<g ref="char:EOLhyphen"/>ly remit all, and doe forget it, and race it from our memories and doe forgive it from our hearts.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
